@@ -12,6 +12,10 @@
     <a href="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/571623f4-2437-4280-8dda-2ad791df8c03"><img src="https://wakatime.com/badge/user/68660678-6b86-4b78-98df-f5f41a37e1bc/project/571623f4-2437-4280-8dda-2ad791df8c03.svg" alt="wakatime"></a>
 </p>
 
+<h2 align="center">
+  <img src="./image/preview1.jpeg">
+</h2>
+
 ## 💻 Projeto
 
 Projeto para o curso de "Explorando o Rest Assured Para a Automação de Testes de API" da DIO.
